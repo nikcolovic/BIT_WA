@@ -1,0 +1,11 @@
+.blogList {
+  margin: 10px 50px;
+}
+
+.blogItem {
+  padding: 20px;
+  background-color: gray;
+  color: white;
+  margin: 10px 0;
+  padding: 10px;
+}

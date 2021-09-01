@@ -1,0 +1,30 @@
+.card-container {
+    width: 30%;
+    display: inline-block;
+    border: 1px solid lightgrey;
+    margin-bottom: 10px;
+  }
+  
+  .img-container {
+    width: 100%;
+    position: relative;
+  }
+  
+  .img-container > img {
+    width: 100%;
+  }
+  
+  .img-container > h4 {
+    position: absolute;
+    bottom: 5px;
+    left: 20px;
+    color: white;
+  }
+  
+  .data-container {
+    padding: 10px;
+  }
+  
+  .data-container > p {
+    margin-bottom: 10px;
+  }

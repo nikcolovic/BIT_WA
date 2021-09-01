@@ -1,7 +1,7 @@
-const Person = require("../entites/Person")
-const Seat = require("../entites/Seat")
-const Passenger = require("../entites/Passenger")
-const Flight = require("../entites/Flight")
+const Person = require("../entities/Person")
+const Seat = require("../entities/Seat")
+const Passenger = require("../entities/Passenger")
+const Flight = require("../entities/Flight")
 
 
 const createFlight = (relation, date) => {

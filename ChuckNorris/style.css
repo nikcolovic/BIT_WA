@@ -1,0 +1,35 @@
+body {
+    text-align: center;
+    font-family: sans-serif;
+    background-image: url(./ChuckNorrisBackground.jpg);
+    background-attachment: fixed;
+    background-position:top;
+    background-size:cover;
+}
+button {
+    background: #be0a0a;
+    color: khaki;
+    border: none;
+    padding: 15px 25px;
+    text-transform: uppercase;
+    cursor: pointer;
+    border-radius: 3px;
+}
+button:hover {
+    background: #e27e0c;
+}
+button:active {
+    background: #be0a0a;
+}
+p#joke-text {
+    border-radius: 5px;
+    border: 2px solid #f3f3f3;
+    padding: 20px;
+    margin: 30px auto;
+    max-width: 400px;
+    background: #e27e0c;
+    color: khaki;
+}
+.error {
+    color: red;
+}

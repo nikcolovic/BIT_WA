@@ -1,0 +1,66 @@
+.LoginForm__wrapper {
+  width: 400px;
+  height: 400px;
+  padding-top: 40px;
+  padding-bottom: 10px;
+  margin: 0 auto;
+  margin-top: 100px;
+  text-align: center;
+  background-color: #ffffff;
+  border-radius: 10px;
+  border: none;
+}
+
+#LoginForm__username {
+  display: block;
+  margin: 25px auto;
+  padding: 10px 25px;
+  text-align: center;
+  background-color: #ECF0F1;
+  border-radius: 5px;
+  border: none;
+  font-size: 18px;
+}
+
+#LoginForm__password {
+  display: block;
+  margin: 25px auto;
+  padding: 10px 25px;
+  text-align: center;
+  background-color: #ECF0F1;
+  border-radius: 5px;
+  border: none;
+  font-size: 18px;
+}
+
+#LoginForm__login {
+  display: block;
+  margin: 25px auto;
+  background-color: #3499DD;
+  padding: 10px 25px;
+  color: #ECF0F1;
+  border-radius: 5px;
+  border: none;
+  cursor: pointer;
+  font-size: 18px;
+}
+
+#LoginForm__reset {
+  display: block;
+  margin: 25px auto;
+  padding: 10px 25px;
+  border-radius: 5px;
+  border: none;
+  text-decoration: underline;
+  background-color: white;
+  cursor: pointer;
+  font-size: 18px;
+}
+input {
+  width: 250px;
+  height: 40px;
+}
+button {
+  width: 300px;
+  height: 50px;
+}

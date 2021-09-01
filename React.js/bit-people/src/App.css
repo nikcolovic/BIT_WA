@@ -1,0 +1,23 @@
+
+nav{
+  text-align: center;
+}
+h3{
+  padding: 10px;
+}
+.container{
+  width: 80%;
+  margin: 1% auto;
+}
+.collection{
+  margin:0;
+}
+
+.App-title {
+  font-size: 1.5em;
+}
+.female{
+  background-color: #ffebee;
+}
+
+

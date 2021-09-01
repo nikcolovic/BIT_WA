@@ -1,0 +1,13 @@
+.single-user {
+    border: 1px solid lightgray;
+    display: flex;
+    justify-content: flex-start;
+    padding: 10px;
+  }
+  .user-img {
+    margin-right: 20px;
+    padding: 10px;
+  }
+  .user-img > img {
+    border-radius: 50%;
+  }
